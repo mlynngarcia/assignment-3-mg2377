@@ -1,0 +1,15 @@
+---
+title: "Marissa"
+author: "Marissa Garcia"
+date: "2/14/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* I study whales.
+* I love coffee.
+* I am from Southern California. 
+  * Specifically, I grew up near Disneyland!
