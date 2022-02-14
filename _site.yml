@@ -7,3 +7,10 @@ navbar:
       href: marissa.html
     - text: "Karianne"
       href: Karianne.html  
+      
+output:
+  html_document:
+    theme: cayman
+    highlight: textmate
+    toc: true 
+    toc_float: true 
