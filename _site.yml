@@ -10,7 +10,7 @@ navbar:
       
 output:
   html_document:
-    theme: cayman
+    theme: lumen
     highlight: textmate
     toc: true 
     toc_float: true 
