@@ -8,7 +8,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-My name is Marissa Garcia (mg2377), and [this is the link to my personal Github account] (https://github.com/mlynngarcia). 
+My name is Marissa Garcia (mg2377), and [this is the link to my personal Github account](https://github.com/mlynngarcia). 
 
 The name of my collaborator is Karianne Kapfer (kk743), and [this is the link to her personal Github account](https://github.com/Karianney).
 

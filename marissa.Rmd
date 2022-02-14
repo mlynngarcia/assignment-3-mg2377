@@ -1,7 +1,5 @@
 ---
 title: "Marissa"
-author: "Marissa Garcia"
-date: "2/14/2022"
 output: html_document
 ---
 
