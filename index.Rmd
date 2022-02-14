@@ -12,4 +12,4 @@ My name is Marissa Garcia (mg2377), and [this is the link to my personal Github 
 
 The name of my collaborator is Karianne Kapfer (kk743), and [this is the link to her personal Github account](https://github.com/Karianney).
 
-![This is a photo of Karianne and me with the other graduate students at the K. Lisa Yang Center for Conservation Bioacoustics.](/Users/marissagarcia/Downloads/PhotoForGitHubAssignment3.jpeg)
+![This is a photo of Karianne and me with the other graduate students at the K. Lisa Yang Center for Conservation Bioacoustics.](/Users/marissagarcia/Documents/NTRES 6100 GIT Directory/assignment-3-mg2377/PhotoForGitHubAssignment3.jpeg)
