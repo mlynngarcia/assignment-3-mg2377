@@ -1,0 +1,13 @@
+---
+title: "Karianne Kapfer"
+output: html_document
+---
+
+* I am from Florida
+  * Though neither of my parents are, my Dad is from New York and my Mom is from Norway
+* My birthday is June 11th
+  * I am 22 years old
+  * I do not actually care about my birthday, but this was one of the first fact I thought of 
+* My favorite color is either green or blue
+* My favorite animal since I was a child has been Orcas
+  * Though I am slowly loving manatees and humpback whales just as much 
